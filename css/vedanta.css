@@ -12134,4 +12134,13 @@ a.active {
 	margin-bottom: -5px !important;
 }
 
+.img {
+	width: 400px;
+	float: left;
+	margin-right: 30px;
+}
+
+li {
+	margin-bottom: 30px;
+}
 
